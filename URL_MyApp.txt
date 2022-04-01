@@ -1,0 +1,3 @@
+Link Aplikasi Prediksi Gaji Pemain Sepakbola: https://bintang-fifa-frontend.herokuapp.com/
+
+Link Dataset : https://sofifa.com/
